@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Benchmark LLC</string>
+    <string name="txtTitle">Flying History</string>
+    <string name="pg1Btn1">Scan QR Code</string>
+    <string name="pg1Btn2">Go To Data Page</string>
+    <string name="prompt0">Go to scanner</string>
+    <string name="prompt1">Go to flyinghistory.com</string>
+    <string name="description0">spaceholder</string>
+</resources>
